@@ -1,0 +1,83 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="CleanUpTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="colorError">@color/errorColor</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionBarTabTextStyle">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="actionBarTheme">@color/colorPrimary</item>
+    </style>
+
+    <style name="CustomToolbar">
+        <item name="android:popupTheme">@style/ThemeOverlay.Material3.Light</item>
+        <item name="android:theme">@style/ThemeOverlay.Material3.Dark.ActionBar</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="android:titleTextAppearance">@style/AppName</item>
+        <item name="android:textAppearance">@style/NormalText</item>
+        <item name="android:minHeight">65dp</item>
+    </style>
+
+    <style name="MyNavigationTheme" parent="Base.Theme.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:verticalSpacing">2dp</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:listDivider">@color/divider_color</item>
+        <item name="android:textColorSecondary">@color/nav_icon_color</item>
+        <item name="listPreferredItemHeight">0.5dp</item>
+    </style>
+
+    <style name="CleanUpTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="CleanUpTheme.NoActionBar.TitleBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="CleanUpTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="CleanUpTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColor">@color/light_black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    
+    <style name="InstructionStyle_StepHeading">
+        <item name="android:textColor">@color/detail_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">casual</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="TextBox" parent="Widget.Material3.TextInputEditText.OutlinedBox">
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+
+    <!-- Text size. -->
+    <style name="AppName" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NormalText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

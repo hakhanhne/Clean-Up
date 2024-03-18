@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Clean Up</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_site_details">SiteDetailsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >6 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_site_detail">SiteDetailActivity</string>
+    <string name="title_activity_clean_up_sites">CleanUpSitesActivity</string>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+    <string name="privacy_policy_text">
+        \n 
+        **Privacy Policy**
+        \n 
+        Last updated: 2023/12/20\n  \n 
+        Welcome to Clean Up. Your privacy is important to us. This Privacy Policy explains how we collects, uses, discloses, and protects your information when you use our Service.\n 
+        By accessing or using the Service, you agree to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Service.\n 
+        \n 
+        **Information We Collect**
+        \n 
+        We collect information that you provide directly to us, such as when you create an account, post content, or communicate with other users. This information may include:\n 
+        - Personal Information: Your name, email address, and other contact details.
+        - User Content: Content you post, including messages, photos, and other materials.
+        - Usage Information: Information about how you interact with the Service, such as your IP address, device information, and browsing activity.\n 
+        \n 
+        **How We Use Your Information**
+        \n 
+        We use the information we collect for various purposes, including:\n 
+        - Providing and improving the Service.
+        - Personalizing your experience on the Service.
+        - Communicating with you about the Service and your account.
+        - Analyzing usage patterns and trends.\n 
+        \n 
+        **Sharing Your Information**
+        \n 
+        We may share your information with third parties in the following circumstances:\n 
+        - With your consent.
+        - To comply with legal obligations.
+        - To protect and defend our rights and property.
+        - In connection with a business transaction, such as a merger or acquisition.\n 
+        \n 
+        **Your Choices**
+        \n 
+        You have choices regarding the information you provide and how it is used:\n 
+        - You can update or delete your account information at any time.            \n  \n     - You can opt-out of receiving promotional communications.            \n  \n     - You can adjust your browser settings to refuse cookies.\n 
+        \n 
+        **Security**
+        \n 
+        We take reasonable measures to protect your information from unauthorized access or disclosure. However, no security measure is completely secure, and we cannot guarantee the security of your information.\n 
+        \n 
+        **Changes to this Privacy Policy**
+        \n 
+        We may update this Privacy Policy from time to time. If we make material changes, we will notify you by posting the new policy on this page.\n 
+        \n 
+        **Contact Us**
+        \n 
+        If you have any questions about this Privacy Policy, please contact us at s3877707@gmail.com.\n 
+        Thank you for using Clean Up!
+    </string>
+    <string name="about_us_content">
+        \n  \n Welcome to our Clean Up Android App, dedicated to making a positive impact on the environment, just like Clean Up Australia. Our app aims to empower individuals and communities to come together and take action towards a cleaner and healthier planet.           
+        \n  \n At our core, we believe that every small effort counts and that collective action can create significant change. With this app, we provide a platform for users to join hands and actively participate in cleaning up their surroundings, raising awareness about environmental issues, and promoting sustainable practices.
+        \n  \n Our Mission
+        \n  \n Our mission is to inspire and mobilize individuals to protect and preserve the environment. We strive to create a global community of environmentally conscious citizens who are committed to making a difference. Through the power of technology, we aim to connect people, resources, and knowledge, fostering a sense of responsibility and stewardship towards our planet.
+        \n  \n Key Features
+        \n  \n 1. Clean Up Events: Join or organize clean-up events in your local area. Collaborate with like-minded individuals and make a tangible impact on your community cleanliness.
+        \n  \n 2. Educational Resources: Access a wide range of educational materials, articles, and videos to learn about various environmental issues, sustainable practices, and ways to reduce waste.
+        \n  \n 3. Waste Challenges: Engage in waste challenges designed to encourage and track your progress in reducing waste, promoting recycling, and adopting eco-friendly habits.
+        \n  \n 4. Recycling Guide: Discover comprehensive information on recycling, including guidelines for different types of materials, recycling centers near you, and the benefits of recycling.
+        \n  \n 5. Community Engagement: Connect with other app users, share your experiences, and exchange ideas on how to create a greener and cleaner environment.
+        \n  \n 6. Environmental Advocacy: Stay up to date with the latest environmental news, campaigns, and initiatives. Take action by signing petitions, supporting environmental organizations, and amplifying your voice for change.
+        \n  \n 7. Personalized Profile: Create your profile, track your environmental contributions, and inspire others through your achievements and commitment to sustainability.
+        \n  \n Join Us
+        \n  \n Together, we can make a difference. Download our app now and become part of a passionate community dedicated to environmental stewardship. Join hands with us as we strive to create a cleaner, greener, and more sustainable world for future generations.
+        \n  \n Lets clean up, raise awareness, and inspire positive change, one step at a time. Together, we can make a lasting impact.
+    </string>
+
+</resources>

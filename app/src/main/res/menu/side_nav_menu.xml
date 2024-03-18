@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+
+        <item android:title="Clean Up">
+            <menu>
+                <item
+                    android:id="@+id/nav_sites"
+                    android:icon="@drawable/ic_location"
+                    android:title="Clean Up Sites"/>
+
+                <item
+                    android:id="@+id/nav_register_site"
+                    android:icon="@drawable/ic_add_site"
+                    android:title="Register a Clean Up"/>
+
+                <item
+                    android:id="@+id/nav_join_site"
+                    android:icon="@drawable/ic_join_site"
+                    android:title="Join a Clean Up"/>
+
+            </menu>
+        </item>
+
+
+        <item android:title="Account"
+             android:id="@+id/nav_account_logged_in">
+            <menu>
+                <item
+                    android:id="@+id/nav_dashboard"
+                    android:icon="@drawable/ic_dashboard"
+                    android:title="My Dashboard"/>
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_user_filled_white"
+                    android:title="My Profile"/>
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Logout"
+                    />
+            </menu>
+        </item>
+
+        <item android:title="Account"
+            android:id="@+id/nav_account_anonymous">
+            <menu>
+                <item
+                    android:id="@+id/nav_register_account"
+                    android:icon="@drawable/ic_register_account"
+                    android:title="Register Account"
+                    />
+
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/ic_login"
+                    android:title="Login"
+                    />
+            </menu>
+        </item>
+
+        <item android:title="About">
+            <menu>
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_about_us"
+                    android:title="About Us"/>
+
+                <item
+                    android:id="@+id/nav_policy"
+                    android:icon="@drawable/ic_policy"
+                    android:title="Privacy Prolicy"/>
+
+                <item
+                    android:id="@+id/nav_copyright"
+                    android:icon="@drawable/ic_copyright"
+                    android:title="Copyright"
+                    />
+            </menu>
+        </item>
+    </group>
+
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471578651754",
+    "project_id": "clean-up-3877707",
+    "storage_bucket": "clean-up-3877707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471578651754:android:69932138ef05f511362e13",
+        "android_client_info": {
+          "package_name": "rmit.aad.cleanup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7RRVYiQEPMoJgZl3kIM1L8GeyxaobCiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471578651754:android:5914a410a450c1d8362e13",
+        "android_client_info": {
+          "package_name": "rmit.add.cleanup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7RRVYiQEPMoJgZl3kIM1L8GeyxaobCiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
